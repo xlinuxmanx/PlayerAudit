@@ -26,6 +26,7 @@ Each player on join will be given a profile folder where every event listed belo
 
 *This plugin is intended for staff usage*
 - **playeraudit.admin** - Gives permission to all PlayerAudit commands
+
 *Hint: Players who do not have permission cannot pickup an Audit Wand that was mistakenly dropped ;)*
 
 [![Configuration](https://i.imgur.com/JmWZDD1.png "Configuration")](https://i.imgur.com/JmWZDD1.png "Configuration")
