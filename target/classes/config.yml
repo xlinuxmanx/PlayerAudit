@@ -1,0 +1,13 @@
+# What to log
+log-lava-bucket: true
+log-water-bucket: true
+log-block-place: true
+log-block-break: true
+log-chat-messages: true
+log-player-commands: true
+log-sign-messages: true
+log-player-teleport: true
+
+# Show log messages in console as well
+# WARNING: THIS CAN SPAM YOUR CONSOLE ON LARGER SERVERS, DISABLING BY DEFAULT
+log-to-console: false

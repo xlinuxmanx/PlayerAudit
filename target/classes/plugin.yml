@@ -1,0 +1,18 @@
+name: PlayerAudit
+description: Log grief related player events and use a wand to check block ownership and details.
+version: 1.0
+api-version: 1.15
+author: linuxman
+main: co.linuxman.playeraudit.PlayerAudit
+commands:
+  playeraudit:
+    aliases: pa
+    description: Main Player Audit command
+    permission: playeraudit.admin
+permissions:
+  playeraudit.admin:
+    description: Permission to use PlayerAudit commands
+    default: op
+  playeraudit.*:
+    description: Permission to use PlayerAudit commands
+    default: op
